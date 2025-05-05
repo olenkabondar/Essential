@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99606D4-410A-4768-A2FC-F9610B3C25F0}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99606D4-410A-4768-A2FC-F9610B3C25F0}|5Task\\5Task.csproj|solutionrelative:5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99606D4-410A-4768-A2FC-F9610B3C25F0}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\5task\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99606D4-410A-4768-A2FC-F9610B3C25F0}|5Task\\5Task.csproj|solutionrelative:5task\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\4task\\prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|solutionrelative:4task\\prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\4task\\documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|solutionrelative:4task\\documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\inheritancepolymorphism\\4task\\expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47FB6D-9003-440B-9C00-5A75EF7D5886}|4Task\\4Task.csproj|solutionrelative:4task\\expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\5Task\\Printer.cs",
+              "RelativeDocumentMoniker": "5Task\\Printer.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\5Task\\Printer.cs",
+              "RelativeToolTip": "5Task\\Printer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:13:08.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\5Task\\Program.cs",
+              "RelativeDocumentMoniker": "5Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\5Task\\Program.cs",
+              "RelativeToolTip": "5Task\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:12:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpertDocumentWorker.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\ExpertDocumentWorker.cs",
+              "RelativeDocumentMoniker": "4Task\\ExpertDocumentWorker.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\ExpertDocumentWorker.cs",
+              "RelativeToolTip": "4Task\\ExpertDocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:52:05.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProDocumentWorker.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\ProDocumentWorker.cs",
+              "RelativeDocumentMoniker": "4Task\\ProDocumentWorker.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\ProDocumentWorker.cs",
+              "RelativeToolTip": "4Task\\ProDocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:48:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentWorker.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\DocumentWorker.cs",
+              "RelativeDocumentMoniker": "4Task\\DocumentWorker.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\DocumentWorker.cs",
+              "RelativeToolTip": "4Task\\DocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:45:16.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\InheritancePolymorphism\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:43:51.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
