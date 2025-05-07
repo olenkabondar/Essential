@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\documentpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\documentpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\abstractioninterfaces\\abstractioninterfaces\\5task\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83D9C9-6DC8-4B2F-9388-89ED8F81DA93}|5Task\\5Task.csproj|solutionrelative:5task\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Program.cs",
+              "RelativeDocumentMoniker": "5Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Program.cs",
+              "RelativeToolTip": "5Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:12:28.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Document.cs",
+              "RelativeDocumentMoniker": "5Task\\Document.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Document.cs",
+              "RelativeToolTip": "5Task\\Document.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:53:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Footer.cs",
+              "RelativeDocumentMoniker": "5Task\\Footer.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Footer.cs",
+              "RelativeToolTip": "5Task\\Footer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:53:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Body.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Body.cs",
+              "RelativeDocumentMoniker": "5Task\\Body.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Body.cs",
+              "RelativeToolTip": "5Task\\Body.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:53:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Title.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Title.cs",
+              "RelativeDocumentMoniker": "5Task\\Title.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\Title.cs",
+              "RelativeToolTip": "5Task\\Title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:52:57.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentPart.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\DocumentPart.cs",
+              "RelativeDocumentMoniker": "5Task\\DocumentPart.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\AbstractionInterfaces\\AbstractionInterfaces\\5Task\\DocumentPart.cs",
+              "RelativeToolTip": "5Task\\DocumentPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:50:16.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
