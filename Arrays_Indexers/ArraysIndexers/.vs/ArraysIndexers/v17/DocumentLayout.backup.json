@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|solutionrelative:6task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\6task\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|solutionrelative:6task\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\6task\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857AC6AA-380C-4C76-9278-1834F53FD7A2}|6Task\\6Task.csproj|solutionrelative:6task\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\4task\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|solutionrelative:4task\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\4task\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE30495-EAAE-4091-A59E-0163D94A0DB6}|4Task\\4Task.csproj|solutionrelative:4task\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B428C-C7DB-4091-B103-BFEC937E61CB}|3Task\\3Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70B428C-C7DB-4091-B103-BFEC937E61CB}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B428C-C7DB-4091-B103-BFEC937E61CB}|3Task\\3Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\3task\\mymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70B428C-C7DB-4091-B103-BFEC937E61CB}|3Task\\3Task.csproj|solutionrelative:3task\\mymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED3EEB-4225-4D05-A075-FA9FE3080CC3}|2Task\\2Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\arrays_indexers\\arraysindexers\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ED3EEB-4225-4D05-A075-FA9FE3080CC3}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDictionary.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\MyDictionary.cs",
+              "RelativeDocumentMoniker": "6Task\\MyDictionary.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\MyDictionary.cs",
+              "RelativeToolTip": "6Task\\MyDictionary.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:52:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\Translator.cs",
+              "RelativeDocumentMoniker": "6Task\\Translator.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\Translator.cs",
+              "RelativeToolTip": "6Task\\Translator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:50:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\Program.cs",
+              "RelativeDocumentMoniker": "6Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\6Task\\Program.cs",
+              "RelativeToolTip": "6Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:46:38.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Store.cs",
+              "RelativeDocumentMoniker": "4Task\\Store.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Store.cs",
+              "RelativeToolTip": "4Task\\Store.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:08:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Article.cs",
+              "RelativeDocumentMoniker": "4Task\\Article.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Article.cs",
+              "RelativeToolTip": "4Task\\Article.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:07:40.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:05:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyMatrix.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\3Task\\MyMatrix.cs",
+              "RelativeDocumentMoniker": "3Task\\MyMatrix.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\3Task\\MyMatrix.cs",
+              "RelativeToolTip": "3Task\\MyMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:18:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:17:50.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Arrays_Indexers\\ArraysIndexers\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:04:19.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
