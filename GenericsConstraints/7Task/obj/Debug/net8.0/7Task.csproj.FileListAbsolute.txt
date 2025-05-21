@@ -1,0 +1,15 @@
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\bin\Debug\net8.0\7Task.exe
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\bin\Debug\net8.0\7Task.deps.json
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\bin\Debug\net8.0\7Task.runtimeconfig.json
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\bin\Debug\net8.0\7Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\bin\Debug\net8.0\7Task.pdb
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.AssemblyInfoInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.AssemblyInfo.cs
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.csproj.CoreCompileInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.sourcelink.json
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\refint\7Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.pdb
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\7Task.genruntimeconfig.cache
+C:\STUDY\C#Essential\EssentialHW\3\GenericsConstraints\7Task\obj\Debug\net8.0\ref\7Task.dll
