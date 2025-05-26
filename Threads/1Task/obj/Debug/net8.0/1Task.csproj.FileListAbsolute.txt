@@ -1,0 +1,15 @@
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\bin\Debug\net8.0\1Task.exe
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\bin\Debug\net8.0\1Task.deps.json
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\bin\Debug\net8.0\1Task.runtimeconfig.json
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\bin\Debug\net8.0\1Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\bin\Debug\net8.0\1Task.pdb
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.AssemblyInfoInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.AssemblyInfo.cs
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.csproj.CoreCompileInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.sourcelink.json
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\refint\1Task.dll
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.pdb
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\1Task.genruntimeconfig.cache
+C:\STUDY\C#Essential\EssentialHW\3\Threads\1Task\obj\Debug\net8.0\ref\1Task.dll
