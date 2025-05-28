@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|solutionrelative:4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\4task\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|solutionrelative:4task\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\4task\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2396E1-267B-44FC-ACDD-384EB9D7DBFB}|4Task\\4Task.csproj|solutionrelative:4task\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D617943-1B91-4AA5-B886-FF8FE18FA701}|2Task\\2Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D617943-1B91-4AA5-B886-FF8FE18FA701}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280732E7-16A5-47BD-875A-9C1F16057B49}|3Task\\3Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280732E7-16A5-47BD-875A-9C1F16057B49}|3Task\\3Task.csproj|solutionrelative:3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280732E7-16A5-47BD-875A-9C1F16057B49}|3Task\\3Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\collections\\3task\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280732E7-16A5-47BD-875A-9C1F16057B49}|3Task\\3Task.csproj|solutionrelative:3task\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\Extensions.cs",
+              "RelativeDocumentMoniker": "4Task\\Extensions.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\Extensions.cs",
+              "RelativeToolTip": "4Task\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\MyList.cs",
+              "RelativeDocumentMoniker": "4Task\\MyList.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\MyList.cs",
+              "RelativeToolTip": "4Task\\MyList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:39:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\Program.cs",
+              "RelativeDocumentMoniker": "4Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\4Task\\Program.cs",
+              "RelativeToolTip": "4Task\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:38:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:37:13.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDictionary.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\3Task\\MyDictionary.cs",
+              "RelativeDocumentMoniker": "3Task\\MyDictionary.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\3Task\\MyDictionary.cs",
+              "RelativeToolTip": "3Task\\MyDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:08:42.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\3Task\\Program.cs",
+              "RelativeDocumentMoniker": "3Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Collections\\3Task\\Program.cs",
+              "RelativeToolTip": "3Task\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:07:19.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
