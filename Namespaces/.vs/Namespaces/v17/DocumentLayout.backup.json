@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142B5397-B831-4897-B032-508F1FE8FA6D}|For2Task\\For2Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\namespaces\\for2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142B5397-B831-4897-B032-508F1FE8FA6D}|For2Task\\For2Task.csproj|solutionrelative:for2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADE844E-920C-4A9B-9DF7-AE036AAE906A}|2Task\\2Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\namespaces\\2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADE844E-920C-4A9B-9DF7-AE036AAE906A}|2Task\\2Task.csproj|solutionrelative:2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD88F22-C05D-4D5A-AF72-28EA22A22961}|1Task\\1Task.csproj|c:\\study\\c#essential\\essentialhw\\3\\namespaces\\1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD88F22-C05D-4D5A-AF72-28EA22A22961}|1Task\\1Task.csproj|solutionrelative:1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\For2Task\\Program.cs",
+              "RelativeDocumentMoniker": "For2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\For2Task\\Program.cs",
+              "RelativeToolTip": "For2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:10:05.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\2Task\\Program.cs",
+              "RelativeDocumentMoniker": "2Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\2Task\\Program.cs",
+              "RelativeToolTip": "2Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:04:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\1Task\\Program.cs",
+              "RelativeDocumentMoniker": "1Task\\Program.cs",
+              "ToolTip": "C:\\STUDY\\C#Essential\\EssentialHW\\3\\Namespaces\\1Task\\Program.cs",
+              "RelativeToolTip": "1Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:40:00.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

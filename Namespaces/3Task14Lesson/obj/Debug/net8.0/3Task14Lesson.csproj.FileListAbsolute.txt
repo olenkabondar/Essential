@@ -1,0 +1,15 @@
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\bin\Debug\net8.0\3Task14Lesson.exe
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\bin\Debug\net8.0\3Task14Lesson.deps.json
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\bin\Debug\net8.0\3Task14Lesson.runtimeconfig.json
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\bin\Debug\net8.0\3Task14Lesson.dll
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\bin\Debug\net8.0\3Task14Lesson.pdb
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.AssemblyInfoInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.AssemblyInfo.cs
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.csproj.CoreCompileInputs.cache
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.sourcelink.json
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.dll
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\refint\3Task14Lesson.dll
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.pdb
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\3Task14Lesson.genruntimeconfig.cache
+C:\STUDY\C#Essential\EssentialHW\3\Namespaces\3Task14Lesson\obj\Debug\net8.0\ref\3Task14Lesson.dll
